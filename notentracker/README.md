@@ -1,6 +1,6 @@
 # Notentracker
 
-Aktuelle Version: **3.12.0**
+Aktuelle Version: **3.12.1**
 
 Eine einzige HTML-Datei, hier **passwortgeschützt** (StatiCrypt). Läuft im Browser – am iPad am besten über „Teilen → Zum Home-Bildschirm“. Mit „Passwort 30 Tage merken“ öffnet sie sich danach ohne erneute Eingabe.
 
